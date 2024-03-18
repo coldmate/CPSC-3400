@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyoCnVYPtRPIMr8blMyKCSWRM7cP+T+jNlBmhwRvyDADeV3dQDwcqiALWpJArau4AC57Yr+EG5OF75blZG6yAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\email\\Downloads\\Winter_Quarter_2024\\CPSC_3400\\Hw4\\Hw4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
